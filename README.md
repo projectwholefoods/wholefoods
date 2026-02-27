@@ -7,7 +7,7 @@
 ## `wholefoods`
 
 > ⚠️ This repository is now deprecated. The inputs part of the project has been merged with the research effort: [research-public](http://google.com)
-> Please note: Structurally, the integration format remains the same. ALL your previous implementation will work as normal. This change only affects development process of our team and outlines the integration intent more closely. Thanks for your understanding.
+> Please note: Structurally, the integration format remains the same. ALL existing implementations will work as normal. This change only affects development process of our team and outlines the integration intent more closely. Thanks for your understanding.
 
 ## Additional resources
 
