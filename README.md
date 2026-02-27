@@ -6,14 +6,14 @@
 
 ## `wholefoods`
 
-> ⚠️ This repository is now deprecated. The inputs part of the project has been merged with the research effort: [research-public](http://google.com)
+> ⚠️ This repository is now deprecated. The inputs part of the project has been merged with the research effort: [research-public](https://github.com/projectwholefoods/research-public)
 > Please note: Structurally, the integration format remains the same. ALL existing implementations will work as normal. This change only affects development setup of our team and outlines the integration intent more closely. Thanks for your understanding.
 
 ## Additional resources
 
-- For the technical request structure as well as the `POST` structure, please refer to following repo: [research-public](http://google.com)
-- For the actual data sources including all the `foods` related information seek templates in this repo: [data_source](http://google.com)
-- For original source, we also include direct backing of the data sources. Only for referencial[[1]](#1) use: [sources-public](http://google.com)
+- For the technical request structure as well as the `POST` structure, please refer to following repo: [research-public](https://github.com/projectwholefoods/research-public)
+- For the actual data sources including all the `foods` related information seek templates in this repo: [data_source](https://github.com/projectwholefoods/data_source)
+- For original source, we also include direct backing of the data sources. Only for referencial[[1]](#1) use: [sources-public](https://github.com/projectwholefoods/sources-public)
 
 ## Footnotes
 >
